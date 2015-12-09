@@ -1,1 +1,1 @@
-stdout.writeln ("aaa");
+stdout.writeln ("abc");
